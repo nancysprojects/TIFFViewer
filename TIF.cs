@@ -1,4 +1,4 @@
-                                                       *
+//*                                                         *
 //*                                                                                      *
 //*  Overview:          Class to open TIFF images inside the browser                     *
 //*                     image on the browser.                                            *
